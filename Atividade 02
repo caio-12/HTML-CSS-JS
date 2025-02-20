@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículo de João Silva</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        header, section {
+            margin-bottom: 20px;
+        }
+        header {
+            text-align: center;
+        }
+        h1 {
+            margin-bottom: 0;
+        }
+        h2 {
+            border-bottom: 1px solid #ccc;
+            padding-bottom: 5px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>João Silva</h1>
+    <p><strong>Email:</strong> joao.silva@email.com</p>
+    <p><strong>Telefone:</strong> (11) 98765-4321</p>
+    <p><strong>Endereço:</strong> Rua dos Exemplos, 456, São Paulo, SP, 01234-567</p>
+</header>
+
+<section>
+    <h2>Sobre Mim</h2>
+    <p>Sou um desenvolvedor com mais de 5 anos de experiência em desenvolvimento web, especializado em criar soluções dinâmicas e responsivas. Estou sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir significativamente para minha equipe.</p>
+</section>
+
+<section>
+    <h2>Experiência Profissional</h2>
+    <ul>
+        <li>
+            <strong>Desenvolvedor Front-end - Tech Solutions</strong> (Jan 2023 - Presente)
+            <p>Responsável pelo desenvolvimento de interfaces de usuário utilizando React e otimização de performance em web applications.</p>
+        </li>
+        <li>
+            <strong>Desenvolvedor Web - Web Innovators</strong> (Out 2020 - Dez 2022)
+            <p>Desenvolvimento de websites responsivos com HTML, CSS e JavaScript, além de suporte técnico a clientes e implementação de recursos de acessibilidade.</p>
+        </li>
+    </ul>
+</section>
+
+<section>
+    <h2>Educação</h2>
+    <ul>
+        <li>
+            <strong>Bacharel em Ciência da Computação - Universidade de São Paulo</strong> (Concluído em 2020)
+            <p>Cursos de destaque incluem Desenvolvimento Web, Algoritmos e Estruturas de Dados, e Inteligência Artificial.</p>
+        </li>
+    </ul>
+</section>
+
+<section>
+    <h2>Habilidades</h2>
+    <ul>
+        <li>Desenvolvimento de Front-end</li>
+        <li>JavaScript, HTML, CSS</li>
+        <li>React, Redux</li>
+        <li>Git e Controle de Versão</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Projetos</h2>
+    <ul>
+        <li><strong>Projeto Em destaque:</strong> Desenvolvimento de um aplicativo de gestão de tarefas com tecnologias modernas, permitindo uma interface amigável e funcionalidades de cruzamento de dados.</li>
+        <li><strong>Plataforma de E-commerce:</strong> Desenvolvi a estrutura do front-end e soluções de integração de APIs para uma plataforma de e-commerce robusta.</li>
+    </ul>
+</section>
+
+</body>
+</html>
